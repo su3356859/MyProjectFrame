@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="82dp"
+    android:orientation="horizontal">
+
+    <TextView
+        android:layout_width="@dimen/dimen_65dp"
+        android:layout_height="@dimen/dimen_65dp"
+        android:layout_margin="@dimen/dimen_8dp"
+        android:background="@drawable/shape_icon_head"
+        android:gravity="center"
+        android:text="董"
+        android:textColor="@color/white"
+        android:textSize="@dimen/sp24" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_8dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/item_title_text_style"
+            android:text="董永        A级" />
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dimen_5dp"
+            android:text="意向: 住宅   1室一厅  100万-120万" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dimen_8dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="累计带看 " />
+
+            <TextView
+                style="@style/item_title_text_style"
+                android:text=" 3" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="   累计看房 " />
+
+            <TextView
+                style="@style/item_title_text_style"
+                android:text=" 10" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginRight="@dimen/dimen_5dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/dimen_5dp"
+            android:text="1天未跟进" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dimen_5dp"
+                android:padding="@dimen/dimen_3dp"
+                android:src="@mipmap/icon_call_phone" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dimen_8dp"
+                android:padding="@dimen/dimen_3dp"
+                android:src="@mipmap/icon_follow_up" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dimen_5dp"
+            android:text="2天未带看" />
+
+    </LinearLayout>
+
+</LinearLayout>

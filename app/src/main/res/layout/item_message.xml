@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/dimen_8dp">
+
+
+    <ImageView
+        android:id="@+id/left_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_launcher" />
+
+    <TextView
+        android:id="@+id/item_title_text"
+        style="@style/item_title_text_style"
+        android:layout_marginLeft="@dimen/dimen_5dp"
+        android:layout_toRightOf="@+id/left_image"
+        android:text="客源未跟进提醒-王帅" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/item_title_text"
+        android:layout_margin="@dimen/dimen_5dp"
+        android:layout_toRightOf="@+id/left_image"
+        android:text="提醒内容: 您有5天未跟进" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/dimen_8dp"
+        android:text="2017-08-31" />
+
+</RelativeLayout>

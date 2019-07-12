@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- lidengyao_color_begin-->
+    <color name="base_bg_color">#ECECEC</color>
+    <color name="ldy_color1">#444444</color>
+    <color name="ldy_color2">#ffffff</color>
+    <color name="ldy_color3">#f24137</color>
+    <color name="ldy_color4">#f5f5f5</color>
+    <color name="ldy_color5">#999999</color>
+    <color name="ldy_color6">#272727</color>
+    <color name="ldy_color7">#d9d9d9</color>
+    <color name="ldy_color8">#BBBBBB</color>
+    <color name="ldy_color9">#BFBFBF</color>
+    <color name="ldy_color10">#b2b2b2</color>
+    <color name="ldy_color11">#626262</color>
+    <color name="ldy_color12">#99FFFFFF</color>
+    <color name="ldy_color13">#99000000</color>
+    <color name="ldy_color14">#333333</color>
+    <color name="ldy_color15">#9F1B22</color>
+    <color name="ldy_color16">#EEEEEE</color>
+    <color name="ldy_color17">#E5E5E5</color>
+    <color name="ldy_color18">#00A0E9</color>
+
+    <!-- lidengyao_color_end-->
+    <color name="action_bar_color">#ff0d0d0d</color>
+    <color name="default_status_bar_color">#ff99cc00</color>
+    <color name="bar_tab_text_default_color">#b9b9b9</color>
+    <color name="bar_tab_text_select_color">#ffffffff</color>
+    <color name="psts_background_tab_pressed">#1AFFFFFF</color>
+    <color name="psts_background_tab_pressed_ripple">#AAFFFFFF</color>
+
+    <color name="app_color">#ff6633</color>
+    <color name="app_color_deep_colour">#ff4d11</color>
+    <color name="app_red_transparent">#e0C93437</color>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="dark">#717171</color>
+    <color name="hint_dark">#BFBFBF</color>
+
+    <color name="my_blue">#00A0E9</color>
+    <color name="top_bar_color">#f5f5f7</color>
+    <color name="space_bg_color">#f7f7f7</color>
+
+    <color name="orange">#FF6100</color>
+    <color name="title_bg_color">#f6f6f6</color>
+    <color name="red">#FFC93437</color>
+    <color name="blue">#FF375BF1</color>
+    <color name="yellow">#FFF7D23E</color>
+    <color name="green">#FF34A350</color>
+    <color name="text_red">#9e0400</color>
+    <color name="price_text">#1f1f1f</color>
+
+    <!-- See through -->
+    <color name="transparent">#00000000</color>
+
+    <!-- Black -->
+    <color name="black">#242424</color>
+    <color name="black_zan">#424242</color>
+    <color name="divider_color">#12ffffff</color>
+    <!-- White -->
+    <color name="white">#ffffffff</color>
+    <color name="red_me">#F14336</color>
+    <color name="green_me">#45c4a8</color>
+
+    <color name="transparent_half">#e0000000</color>
+    <!-- Transparent black -->
+    <color name="transparent_black">#20000000</color>
+
+    <!-- Transparent black -->
+    <color name="low_black">#19283d</color>
+
+    <!-- Transparent white -->
+    <color name="transparent_white">#ffcccccc</color>
+
+    <!-- Dark transparent color -->
+    <color name="list_item_background">#c1000000</color>
+
+    <!-- A light, Holo shade of blue -->
+    <color name="holo_blue_light">#ff33b5e5</color>
+
+    <!-- A light, transparent Holo shade of blue -->
+    <color name="holo_blue_light_transparent">#9933b5e5</color>
+
+    <color name="holo_green_light">#ff99cc00</color>
+
+    <!-- A light Holo shade of green -->
+
+
+    <!-- A dark Holo shade of green -->
+    <color name="holo_green_dark">#ff669900</color>
+
+    <!-- A light Holo shade of red -->
+    <color name="holo_red_light">#ffff4444</color>
+
+    <!-- A Holo shade of purple -->
+    <color name="holo_purple">#ffaa66cc</color>
+
+    <!-- A light Holo shade of orange -->
+    <color name="holo_orange_light">#ffffbb33</color>
+
+    <!-- A dark Holo shade of orange -->
+    <color name="holo_orange_dark">#ffff8800</color>
+    <color name="background">#eeeeee</color>
+    <color name="hint">#999999</color>
+    <!-- schoolColer-->
+
+    <color name="hui">#f4f4f4</color>
+    <color name="broker_adress">#626262</color>
+    <color name="pop_line">#5b5b5b</color>
+    <color name="broker_shop">#F14336</color>
+    <color name="broker_lable">#eaeaea</color>
+    <color name="broker_bg">#B8382E</color>
+    <color name="shop_line">#EDEDED</color>
+
+
+    <!--popwindow color-->
+    <color name="popup_main_background">#b0000000</color>
+    <color name="choose_eara_item_press_color">#f4f4f4</color>
+    <color name="no_color">#00000000</color>
+    <!-- schoolColer-->
+    <color name="school_text">#444</color>
+    <color name="fang_text">#999</color>
+    <color name="school_able">#f8a09b</color>
+    <color name="money">#f24137</color>
+    <color name="school_bg">#F5F5F5</color>
+    <color name="xuequ_info">#272727</color>
+    <color name="district_name">#444</color>
+    <!-- seller_house_background-->
+    <color name="seler_bg">#ededed</color>
+    <color name="seler_btn_next">#f24137</color>
+    <color name="look_more_color">#6e6e6e</color>
+    <color name="commit_bt_color">#fedfdd</color>
+    <color name="ask_type_bg">#FFFDDAD7</color>
+
+    <color name="brochures_btn">#F14336</color>
+    <color name="gray_line">#D9D9D9</color>
+    <color name="light_gray_line">#70D9D9D9</color>
+    <color name="red_num">#624317</color>
+    <color name="line_c">#c9c9c9</color>
+    <color name="line_w">#cccccc</color>
+    <color name="text_color_gray">#737373</color><!-- 浅灰色 -->
+    <color name="text_color_666">#666666</color><!-- 浅灰色 -->
+    <color name="text_color_black">#343434</color><!-- 浅灰色 -->
+    <color name="text_title">#00000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="color_bg_selected">#000000</color>
+    <color name="color_bg_normal">#ffffff</color>
+    <color name="color_text_selected">#ffffff</color>
+    <color name="color_text_normal">#000000</color>
+    <color name="touming">#d9ffffff</color>
+    <color name="ee">#e3e3e3</color>
+    <color name="actionsheet_blue">#037BFF</color>
+    <color name="popcolor">#7f000000</color>
+    <color name="black_title">#333333</color>
+    <color name="gray_quanshijiu">#999999</color>
+    <color name="gray_quanshiliu">#666666</color>
+    <color name="quanshif">#ffffff</color>
+    <color name="house_info_color">#f5f5f5</color>
+
+    <color name="bottom_menu_btn_bg_common_color">#FFFFFF</color>
+    <color name="bottom_menu_btn_bg_press_color">#EEEEEE</color>
+    <color name="bottom_menu_btn_text_commom_color">#5B729A</color>
+    <color name="bottom_menu_btn_text_press_colot">#3F51B5</color>
+    <color name="bottom_menu_btn_text_stress_color">#FF0000</color>
+    <color name="bottom_menu_layout_color">#00000000</color>
+</resources>

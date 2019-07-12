@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="customer">客户</string>
+    <string name="hint_input_user_name">请输入用户名</string>
+    <string name="commit_text">提交保存</string>
+    <string name="chooes_hint">请选择</string>
+</resources>
